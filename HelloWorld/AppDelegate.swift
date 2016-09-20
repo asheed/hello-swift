@@ -4,6 +4,8 @@
 //
 //  Created by 우진 안 on 2016. 9. 21..
 //  Copyright © 2016년 score. All rights reserved.
+//  AppDelegate.swift 는 앱의 Lifecycle를 관리하는 내용이 들어 있습니다.
+//  주로 앱을 실행하거나 종료 또는 백그라운드에서 실행할 때 하는 일들을 관리합니다.
 //
 
 import UIKit
